@@ -10,10 +10,16 @@ Project meetings are every other Sunday at 5 p.m. unless we say otherwise. Durin
 ## Timeline (Sundays)
 Project Meetings are every other non-break week starting **9/29**
 
+### Project Meetings
+| Date | Details | Slides |
+|:---:|:------------:|:--------:|
+|9/29| Projects Overview and Meet Groups | [Slides](https://docs.google.com/presentation/d/1bygzhF6HJ81oN6XbnJ_ltnjrmvVwy_xJNgTMXau5_9c/edit?usp=sharing) |
+|10/6| Go over tech stacks and create skeleton code |  |
 
-| Date | Benchmark | Details | Slides |
-|:---:|:--------:|:------------:|:--------:|
-|9/29| Project Meeting | Projects Overview and Meet Groups | |
+### Suggested Timeline
+| Date | Benchmark |
+|:---:|:------------:|
+|10/6| Come up with project idea, choose tech stack (optional) |
 
 ### About the Timeline
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, the timeline is only a guideline, and feel free to work at your own pace!
