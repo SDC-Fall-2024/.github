@@ -20,7 +20,7 @@ Project Meetings are every other non-break week starting **9/29**
 | Date | Benchmark |
 |:---:|:------------:|
 |10/6| Come up with project idea, choose tech stack (optional) |
-|10/6| Finalize tech stack, Come up with a sketch of the UI (Using Canva, Figma, or any other application), Initialize repository on GitHub org, Set up boilerplate code for the tech stack you choose, Come up with core features of application |
+|10/20| Finalize tech stack, Come up with a sketch of the UI (Using Canva, Figma, or any other application), Initialize repository on GitHub org, Set up boilerplate code for the tech stack you choose, Come up with core features of application |
 
 ### About the Timeline
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, the timeline is only a guideline, and feel free to work at your own pace!
