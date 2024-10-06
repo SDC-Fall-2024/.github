@@ -14,12 +14,13 @@ Project Meetings are every other non-break week starting **9/29**
 | Date | Details | Slides |
 |:---:|:------------:|:--------:|
 |9/29| Projects Overview and Meet Groups | [Slides](https://docs.google.com/presentation/d/1bygzhF6HJ81oN6XbnJ_ltnjrmvVwy_xJNgTMXau5_9c/edit?usp=sharing) |
-|10/6| Go over tech stacks and create skeleton code |  |
+|10/6| Go over tech stacks and create skeleton code | [Slides](https://docs.google.com/presentation/d/11bArSKWhq2c3zvA4eoRPA7LIUY_iTJYNzWKSgVXuO7k/edit?usp=sharing) |
 
 ### Suggested Timeline
 | Date | Benchmark |
 |:---:|:------------:|
 |10/6| Come up with project idea, choose tech stack (optional) |
+|10/6| Finalize tech stack, Come up with a sketch of the UI (Using Canva, Figma, or any other application), Initialize repository on GitHub org, Set up boilerplate code for the tech stack you choose, Come up with core features of application |
 
 ### About the Timeline
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, the timeline is only a guideline, and feel free to work at your own pace!
